@@ -22,6 +22,9 @@ Four controllers were used :
   - Fuzzy logic adjusts PID parameters based on the current error, rate of change of error, and integral of error over time.
   - Useful in handling inadequate systems due to uncertainties, non-linearities, or changing operating conditions, where traditional PID controllers struggle.
 
+In this project, I began by modeling a basic suspension system. Following that, I developed and tuned an active suspension system using Simulink, using the four controllers mentioned above. I modelled and tuned all four controllers which were then simulated to evaluate their performance.
+
+
 
 ## System Modelling 
 
