@@ -48,6 +48,20 @@ Based on the equations the system was modelled on SIMULINK
 
 
 ![image](https://github.com/sagneeksengupta/Active-Mass-Suspension/assets/103427128/6850ef2f-b16b-4b9b-ad4c-f4174e2eae42)
+|:--:|
+| *Figure 1: Suspension System Modelling on Simulink* |
+
+
+
+The system is then connected to the four different controllers on Simulink
+
+
+![image](https://github.com/sagneeksengupta/Active-Mass-Suspension/assets/103427128/0fce8137-d2ad-4eec-a0e9-37ad884a0dea)
+|:--:|
+| *Figure 2: Active Suspension system with four controllers* |
+
+
+
 
 
 
